@@ -30,14 +30,9 @@ Contains summarized KPI metrics:
 
 ## Tools Required
 - **Microsoft Excel 2016 or later** (for full dashboard functionality)
-- **Power BI or Tableau** (optional, for enhanced visualizations)
 
-## Contribution
-Feel free to enhance the dashboard by adding more visualizations or improving existing metrics.
+![Screenshot 2025-03-02 230355](https://github.com/user-attachments/assets/7f509e70-8ac9-4e2f-aace-35b248768dab)
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
----
-For any issues or inquiries, contact the project maintainer.
+
 
